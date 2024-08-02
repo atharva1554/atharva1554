@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate data scientist specializing in 
 - 🌟 **Current Role**: Data Scientist and Computer Engineering student at Pimpri Chinchwad College of Engineering and Research
 - 📚 **Focus Areas**: Machine Learning, Data Science, Data Visualization
 - 📄 **Research**: Published papers on lung and breast cancer detection
-- 🌐 **Website**: [Portfolio](https://example.com) *(replace with your actual portfolio URL if available)*
+- 🌐 **Website**: [Portfolio](https://atharva1554.github.io/projects.html)
 
 ## My Projects
 
