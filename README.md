@@ -45,18 +45,18 @@ A step-by-step implementation of the K-Nearest Neighbors algorithm using pure Py
 
 Here’s a snapshot of the tools and technologies I frequently use:
 
-### **Languages**:
+**Languages**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=ffffff)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=ffffff)
 
-### **Machine Learning & AI**:
+**Machine Learning & AI**:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=ffffff)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=ffffff)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=ffffff)
 
-### **Data Visualization**:
+**Data Visualization**:
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003C71?logo=matplotlib&logoColor=ffffff)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0D3F5F?logo=seaborn&logoColor=ffffff)
 
@@ -82,3 +82,5 @@ Feel free to reach out for collaboration, opportunities, or just to chat!
 
 - 📧 [atharvakhairnar1554@gmail.com](mailto:atharvakhairnar1554@gmail.com)
 - 🏆 [LeetCode](https://leetcode.com/u/atharva1554/)
+
+---
